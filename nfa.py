@@ -1,9 +1,9 @@
 import sys
 from collections import deque
-from bs4 import BeautifulSoup
 from graphviz import Digraph
 from typing import Set, Dict, Tuple, List, Optional
 from dfa import DFA
+
 class NFA:
     def __init__(self, estados: Set[int], estado_inicial: int, estado_aceptacion: Set[int], alfabeto: Set[str], transiciones: Dict[Tuple[int, str], Set[int]]):
         self.estados = estados
