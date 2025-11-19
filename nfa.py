@@ -1,7 +1,5 @@
-import sys
 from collections import deque
-from graphviz import Digraph
-from typing import Set, Dict, Tuple, List, Optional
+from typing import Set, Dict, Tuple, List
 from dfa import DFA
 
 class NFA:

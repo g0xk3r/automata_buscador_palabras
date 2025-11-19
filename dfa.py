@@ -1,8 +1,5 @@
-import sys
-from collections import deque
-from bs4 import BeautifulSoup
 from graphviz import Digraph
-from typing import Set, Dict, Tuple, List, Optional
+from typing import Set, Dict, Optional
 
 class DFA:
     def __init__(self, estados: Set[int], estado_inicial: int, estados_finales: Set[int], alfabeto: Set[str], transiciones: Dict[int, Dict[str, int]], mapa_estados: Optional[Dict[frozenset, int]] = None):

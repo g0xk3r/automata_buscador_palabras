@@ -33,3 +33,40 @@ class correr_automatas:
             if caracter in self.dfa.transiciones.get(estado_actual, {}):
                 estado_actual = self.dfa.transiciones[estado_actual][caracter]
                 buffer_actual += caracter
+                mensaje_vitacora = f"Linea {linea}, Columna {columna}: Caracter '{caracter}'. Transicion {estado_original} -> {estado_actual}\n"
+                if estado_actual in self.dfa.estados_finales:
+                    encontrado = {
+                        'palabra': buffer_actual,
+                        'linea': linea,
+                        'columna_fin': columna,
+                        'columna_inicio': columna - len(buffer_actual) + 1
+                    }
+                    self.palabras_encontradas.append(encontrado)
+                    mensaje_vitacora += f"(Palabra clave encontrada: {buffer_actual})"
+                self.vitacora_contenido.append(mensaje_vitacora)
+            else:
+                self.vitacora_contenido.append(f"Linea {linea}, Columna {columna}: Caracter '{caracter}'. No hay transicion desde el estado {estado_actual}. Reiniciando al estado inicial.\n")
+                buffer_actual = ""
+                estado_actual = self.dfa.estado_inicial
+                if caracter in self.dfa.transiciones.get(estado_actual, {}):
+                    estado_actual = self.dfa.transiciones[estado_actual][caracter]
+                    buffer_actual += caracter
+                    self.vitacora_contenido.append(f"Procesando '{caracter}' desde {self.dfa.estado_inicial}: {self.dfa.estado_inicial} -> {estado_actual}.\n")
+                    if estado_actual in self.dfa.estados_finales:
+                        encontrado = {
+                            'palabra': buffer_actual,
+                            'linea': linea,
+                            'columna_fin': columna,
+                            'columna_inicio': columna
+                        }
+                        self.palabras_encontradas.append(encontrado)
+                        self.vitacora_contenido.append(f"(Palabra clave encontrada: {buffer_actual})\n")
+                else:
+                    self.vitacora_contenido.append(f"Caracter '{caracter}' no inicia ninguna palabra clave.\n")
+            if caracter == '\n':
+                linea += 1
+                columna = 1
+            else:
+                columna += 1
+        self.vitacora_contenido.append("Procesamiento del archivo finalizado.\n")
+        return self.palabras_encontradas, "\n".join(self.vitacora_contenido)
