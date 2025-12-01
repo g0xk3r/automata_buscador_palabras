@@ -1,7 +1,6 @@
 from collections import deque
 from typing import Set, Dict, Tuple, List
 from dfa import DFA
-
 class NFA:
     def __init__(self, estados: Set[int], estado_inicial: int, estado_aceptacion: Set[int], alfabeto: Set[str], transiciones: Dict[Tuple[int, str], Set[int]]):
         self.estados = estados

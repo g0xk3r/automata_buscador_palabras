@@ -1,6 +1,5 @@
 from dfa import DFA
 from bs4 import BeautifulSoup
-
 class correr_automatas:
     def __init__(self, dfa: DFA):
         self.dfa = dfa
