@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 class correr_automatas:
     def __init__(self, dfa: DFA):
         self.dfa = dfa
-        self.vitacora_contenido = []
+        self.bitacora_contenido = []
         self.palabras_encontradas = []
 
     def leer_archivo(self, ruta_archivo: str):

@@ -7,7 +7,7 @@ class NFA:
         self.estado_inicial = estado_inicial
         self.estado_aceptacion = estado_aceptacion
         self.alfabeto = alfabeto
-        self.tranciones = transiciones
+        self.transiciones = transiciones
 
     def cerradura_epsilon(self, estados: Set[int]):
         pila = list(estados)
@@ -15,7 +15,7 @@ class NFA:
 
         while pila:
             estado_actual = pila.pop()
-            transiciones_epsilon = self.tranciones.get((estado_actual, ' '), set())
+            transiciones_epsilon = self.transiciones.get((estado_actual, ' '), set())
             for estado in transiciones_epsilon:
                 if estado not in cerradura:
                     cerradura.add(estado)
@@ -25,7 +25,7 @@ class NFA:
     def mover(self, estados: Set[int], simbolo: str):
         estados_alcanzables = set()
         for estado in estados:
-            transiciones_simbolo = self.tranciones.get((estado, simbolo), set())
+            transiciones_simbolo = self.transiciones.get((estado, simbolo), set())
             estados_alcanzables.update(transiciones_simbolo)
         return estados_alcanzables
 
@@ -71,7 +71,7 @@ class NFA:
     def a_palabras_clave(palabras_clave: List[str]):
         estado_inicial = 0
         estados = {0}
-        estados_finales = {}
+        estados_finales = set()
         transiciones = {}
         alfabeto = set()
         nuevo_contador_estado = 0

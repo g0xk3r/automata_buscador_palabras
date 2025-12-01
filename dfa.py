@@ -10,9 +10,9 @@ class DFA:
         self.mapa_estados = mapa_estados
 
     def mostrar_grafo(self):
-        punto = Digraph(format='png')
+        punto = Digraph()
         punto.attr(rankdir='LR')
-        punto.node('start', shape='none')
+        punto.node('start', shape='point')
         for estado in self.estados:
             if estado in self.estados_finales:
                 punto.node(str(estado), shape='doublecircle')
