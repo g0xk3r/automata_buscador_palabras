@@ -3,6 +3,7 @@ import os
 from nfa import NFA
 from automatas import correr_automatas
 
+st.set_page_config(layout="wide")
 st.title("Buscador de palabras clave con Automatas Finitos")
 
 palabras_clave = [
@@ -30,8 +31,9 @@ try:
     grafo_dfa = dfa.mostrar_grafo()
     st.graphviz_chart(grafo_dfa)
     with st.expander("Mapeo de Estados NFA a DFA"):
+        # Ordenamos la lista para que el JSON se vea limpio
         estados_mapeados = {
-            f"Estado DFA {dfa_id}" : list(nfa_estados)
+            f"Estado DFA {dfa_id}" : sorted(list(nfa_estados))
             for nfa_estados, dfa_id in dfa.mapa_estados.items()
         }
         st.json(estados_mapeados)

@@ -1,5 +1,6 @@
 from graphviz import Digraph
 from typing import Set, Dict, Optional
+
 class DFA:
     def __init__(self, estados: Set[int], estado_inicial: int, estados_finales: Set[int], alfabeto: Set[str], transiciones: Dict[int, Dict[str, int]], mapa_estados: Optional[Dict[frozenset, int]] = None):
         self.estados = estados
