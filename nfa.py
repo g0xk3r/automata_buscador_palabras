@@ -94,8 +94,6 @@ class NFA:
                 alfabeto.add(simbolo)
                 # Verificar si ya existe camino
                 if (estado_actual, simbolo) in transiciones:
-                    # En la fase de construccion del arbol, asumimos determinismo simple
-                    # Tomamos el primer elemento del set existente
                     estado_actual = list(transiciones[(estado_actual, simbolo)])[0]
                 else:
                     nuevo_contador_estado += 1
@@ -104,10 +102,6 @@ class NFA:
                     estado_actual = nuevo_contador_estado
             estados_finales.add(estado_actual)
 
-        # 2. APLICAR LOGICA DEL LIBRO (FIGURA 2.16):
-        # Agregar el bucle Σ (Sigma) en el estado inicial.
-        # Esto significa: (0, 'a') -> {0, 1} si 'a' inicia una palabra.
-        # Esto genera el "No Determinismo" necesario para el DFA complejo.
         for letra in alfabeto:
             if (estado_inicial, letra) not in transiciones:
                 transiciones[(estado_inicial, letra)] = set()
