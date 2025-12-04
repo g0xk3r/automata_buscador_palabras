@@ -1,0 +1,1552 @@
+Iniciando procesamiento del archivo.
+
+Linea 1, Columna 1: Caracter '{'. No es parte del alfabeto clave. Reinicio.
+
+Linea 1, Columna 2: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 1, Columna 3: Caracter 'r'. Transicion 0 -> 0
+Linea 1, Columna 4: Caracter 't'. Transicion 0 -> 0
+Linea 1, Columna 5: Caracter 'f'. No es parte del alfabeto clave. Reinicio.
+
+Linea 1, Columna 6: Caracter '1'. No es parte del alfabeto clave. Reinicio.
+
+Linea 1, Columna 7: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 1, Columna 8: Caracter 'a'. Transicion 0 -> 2
+Linea 1, Columna 9: Caracter 'n'. Transicion 2 -> 0
+Linea 1, Columna 10: Caracter 's'. Transicion 0 -> 3
+Linea 1, Columna 11: Caracter 'i'. Transicion 3 -> 0
+Linea 1, Columna 12: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 1, Columna 13: Caracter 'a'. Transicion 0 -> 2
+Linea 1, Columna 14: Caracter 'n'. Transicion 2 -> 0
+Linea 1, Columna 15: Caracter 's'. Transicion 0 -> 3
+Linea 1, Columna 16: Caracter 'i'. Transicion 3 -> 0
+Linea 1, Columna 17: Caracter 'c'. Transicion 0 -> 0
+Linea 1, Columna 18: Caracter 'p'. Transicion 0 -> 5
+Linea 1, Columna 19: Caracter 'g'. Transicion 5 -> 4
+Linea 1, Columna 20: Caracter '1'. No es parte del alfabeto clave. Reinicio.
+
+Linea 1, Columna 21: Caracter '2'. No es parte del alfabeto clave. Reinicio.
+
+Linea 1, Columna 22: Caracter '5'. No es parte del alfabeto clave. Reinicio.
+
+Linea 1, Columna 23: Caracter '2'. No es parte del alfabeto clave. Reinicio.
+
+Linea 1, Columna 24: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 1, Columna 25: Caracter 'c'. Transicion 0 -> 0
+Linea 1, Columna 26: Caracter 'o'. Transicion 0 -> 0
+Linea 1, Columna 27: Caracter 'c'. Transicion 0 -> 0
+Linea 1, Columna 28: Caracter 'o'. Transicion 0 -> 0
+Linea 1, Columna 29: Caracter 'a'. Transicion 0 -> 2
+Linea 1, Columna 30: Caracter 'r'. Transicion 2 -> 0
+Linea 1, Columna 31: Caracter 't'. Transicion 0 -> 0
+Linea 1, Columna 32: Caracter 'f'. No es parte del alfabeto clave. Reinicio.
+
+Linea 1, Columna 33: Caracter '2'. No es parte del alfabeto clave. Reinicio.
+
+Linea 1, Columna 34: Caracter '8'. No es parte del alfabeto clave. Reinicio.
+
+Linea 1, Columna 35: Caracter '6'. No es parte del alfabeto clave. Reinicio.
+
+Linea 1, Columna 36: Caracter '7'. No es parte del alfabeto clave. Reinicio.
+
+Linea 1, Columna 37: Caracter '
+'. No es parte del alfabeto clave. Reinicio.
+
+Linea 2, Columna 1: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 2, Columna 2: Caracter 'c'. Transicion 0 -> 0
+Linea 2, Columna 3: Caracter 'o'. Transicion 0 -> 0
+Linea 2, Columna 4: Caracter 'c'. Transicion 0 -> 0
+Linea 2, Columna 5: Caracter 'o'. Transicion 0 -> 0
+Linea 2, Columna 6: Caracter 'a'. Transicion 0 -> 2
+Linea 2, Columna 7: Caracter 't'. Transicion 2 -> 9
+Linea 2, Columna 8: Caracter 'e'. Transicion 9 -> 0
+Linea 2, Columna 9: Caracter 'x'. No es parte del alfabeto clave. Reinicio.
+
+Linea 2, Columna 10: Caracter 't'. Transicion 0 -> 0
+Linea 2, Columna 11: Caracter 's'. Transicion 0 -> 3
+Linea 2, Columna 12: Caracter 'c'. Transicion 3 -> 0
+Linea 2, Columna 13: Caracter 'a'. Transicion 0 -> 2
+Linea 2, Columna 14: Caracter 'l'. Transicion 2 -> 0
+Linea 2, Columna 15: Caracter 'i'. Transicion 0 -> 0
+Linea 2, Columna 16: Caracter 'n'. Transicion 0 -> 0
+Linea 2, Columna 17: Caracter 'g'. Transicion 0 -> 4
+Linea 2, Columna 18: Caracter '0'. No es parte del alfabeto clave. Reinicio.
+
+Linea 2, Columna 19: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 2, Columna 20: Caracter 'c'. Transicion 0 -> 0
+Linea 2, Columna 21: Caracter 'o'. Transicion 0 -> 0
+Linea 2, Columna 22: Caracter 'c'. Transicion 0 -> 0
+Linea 2, Columna 23: Caracter 'o'. Transicion 0 -> 0
+Linea 2, Columna 24: Caracter 'a'. Transicion 0 -> 2
+Linea 2, Columna 25: Caracter 'p'. Transicion 2 -> 5
+Linea 2, Columna 26: Caracter 'l'. Transicion 5 -> 0
+Linea 2, Columna 27: Caracter 'a'. Transicion 0 -> 2
+Linea 2, Columna 28: Caracter 't'. Transicion 2 -> 9
+Linea 2, Columna 29: Caracter 'f'. No es parte del alfabeto clave. Reinicio.
+
+Linea 2, Columna 30: Caracter 'o'. Transicion 0 -> 0
+Linea 2, Columna 31: Caracter 'r'. Transicion 0 -> 0
+Linea 2, Columna 32: Caracter 'm'. Transicion 0 -> 1
+Linea 2, Columna 33: Caracter '0'. No es parte del alfabeto clave. Reinicio.
+
+Linea 2, Columna 34: Caracter '{'. No es parte del alfabeto clave. Reinicio.
+
+Linea 2, Columna 35: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 2, Columna 36: Caracter 'f'. No es parte del alfabeto clave. Reinicio.
+
+Linea 2, Columna 37: Caracter 'o'. Transicion 0 -> 0
+Linea 2, Columna 38: Caracter 'n'. Transicion 0 -> 0
+Linea 2, Columna 39: Caracter 't'. Transicion 0 -> 0
+Linea 2, Columna 40: Caracter 't'. Transicion 0 -> 0
+Linea 2, Columna 41: Caracter 'b'. No es parte del alfabeto clave. Reinicio.
+
+Linea 2, Columna 42: Caracter 'l'. Transicion 0 -> 0
+Linea 2, Columna 43: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 2, Columna 44: Caracter 'f'. No es parte del alfabeto clave. Reinicio.
+
+Linea 2, Columna 45: Caracter '0'. No es parte del alfabeto clave. Reinicio.
+
+Linea 2, Columna 46: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 2, Columna 47: Caracter 'f'. No es parte del alfabeto clave. Reinicio.
+
+Linea 2, Columna 48: Caracter 's'. Transicion 0 -> 3
+Linea 2, Columna 49: Caracter 'w'. No es parte del alfabeto clave. Reinicio.
+
+Linea 2, Columna 50: Caracter 'i'. Transicion 0 -> 0
+Linea 2, Columna 51: Caracter 's'. Transicion 0 -> 3
+Linea 2, Columna 52: Caracter 's'. Transicion 3 -> 3
+Linea 2, Columna 53: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 2, Columna 54: Caracter 'f'. No es parte del alfabeto clave. Reinicio.
+
+Linea 2, Columna 55: Caracter 'c'. Transicion 0 -> 0
+Linea 2, Columna 56: Caracter 'h'. Transicion 0 -> 0
+Linea 2, Columna 57: Caracter 'a'. Transicion 0 -> 2
+Linea 2, Columna 58: Caracter 'r'. Transicion 2 -> 0
+Linea 2, Columna 59: Caracter 's'. Transicion 0 -> 3
+Linea 2, Columna 60: Caracter 'e'. Transicion 3 -> 10
+Linea 2, Columna 61: Caracter 't'. Transicion 10 -> 0
+Linea 2, Columna 62: Caracter '0'. No es parte del alfabeto clave. Reinicio.
+
+Linea 2, Columna 63: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 2, Columna 64: Caracter 'H'. No es parte del alfabeto clave. Reinicio.
+
+Linea 2, Columna 65: Caracter 'e'. Transicion 0 -> 0
+Linea 2, Columna 66: Caracter 'l'. Transicion 0 -> 0
+Linea 2, Columna 67: Caracter 'v'. No es parte del alfabeto clave. Reinicio.
+
+Linea 2, Columna 68: Caracter 'e'. Transicion 0 -> 0
+Linea 2, Columna 69: Caracter 't'. Transicion 0 -> 0
+Linea 2, Columna 70: Caracter 'i'. Transicion 0 -> 0
+Linea 2, Columna 71: Caracter 'c'. Transicion 0 -> 0
+Linea 2, Columna 72: Caracter 'a'. Transicion 0 -> 2
+Linea 2, Columna 73: Caracter ';'. No es parte del alfabeto clave. Reinicio.
+
+Linea 2, Columna 74: Caracter '}'. No es parte del alfabeto clave. Reinicio.
+
+Linea 2, Columna 75: Caracter '
+'. No es parte del alfabeto clave. Reinicio.
+
+Linea 3, Columna 1: Caracter '{'. No es parte del alfabeto clave. Reinicio.
+
+Linea 3, Columna 2: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 3, Columna 3: Caracter 'c'. Transicion 0 -> 0
+Linea 3, Columna 4: Caracter 'o'. Transicion 0 -> 0
+Linea 3, Columna 5: Caracter 'l'. Transicion 0 -> 0
+Linea 3, Columna 6: Caracter 'o'. Transicion 0 -> 0
+Linea 3, Columna 7: Caracter 'r'. Transicion 0 -> 0
+Linea 3, Columna 8: Caracter 't'. Transicion 0 -> 0
+Linea 3, Columna 9: Caracter 'b'. No es parte del alfabeto clave. Reinicio.
+
+Linea 3, Columna 10: Caracter 'l'. Transicion 0 -> 0
+Linea 3, Columna 11: Caracter ';'. No es parte del alfabeto clave. Reinicio.
+
+Linea 3, Columna 12: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 3, Columna 13: Caracter 'r'. Transicion 0 -> 0
+Linea 3, Columna 14: Caracter 'e'. Transicion 0 -> 0
+Linea 3, Columna 15: Caracter 'd'. No es parte del alfabeto clave. Reinicio.
+
+Linea 3, Columna 16: Caracter '2'. No es parte del alfabeto clave. Reinicio.
+
+Linea 3, Columna 17: Caracter '5'. No es parte del alfabeto clave. Reinicio.
+
+Linea 3, Columna 18: Caracter '5'. No es parte del alfabeto clave. Reinicio.
+
+Linea 3, Columna 19: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 3, Columna 20: Caracter 'g'. Transicion 0 -> 4
+Linea 3, Columna 21: Caracter 'r'. Transicion 4 -> 0
+Linea 3, Columna 22: Caracter 'e'. Transicion 0 -> 0
+Linea 3, Columna 23: Caracter 'e'. Transicion 0 -> 0
+Linea 3, Columna 24: Caracter 'n'. Transicion 0 -> 0
+Linea 3, Columna 25: Caracter '2'. No es parte del alfabeto clave. Reinicio.
+
+Linea 3, Columna 26: Caracter '5'. No es parte del alfabeto clave. Reinicio.
+
+Linea 3, Columna 27: Caracter '5'. No es parte del alfabeto clave. Reinicio.
+
+Linea 3, Columna 28: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 3, Columna 29: Caracter 'b'. No es parte del alfabeto clave. Reinicio.
+
+Linea 3, Columna 30: Caracter 'l'. Transicion 0 -> 0
+Linea 3, Columna 31: Caracter 'u'. Transicion 0 -> 0
+Linea 3, Columna 32: Caracter 'e'. Transicion 0 -> 0
+Linea 3, Columna 33: Caracter '2'. No es parte del alfabeto clave. Reinicio.
+
+Linea 3, Columna 34: Caracter '5'. No es parte del alfabeto clave. Reinicio.
+
+Linea 3, Columna 35: Caracter '5'. No es parte del alfabeto clave. Reinicio.
+
+Linea 3, Columna 36: Caracter ';'. No es parte del alfabeto clave. Reinicio.
+
+Linea 3, Columna 37: Caracter '}'. No es parte del alfabeto clave. Reinicio.
+
+Linea 3, Columna 38: Caracter '
+'. No es parte del alfabeto clave. Reinicio.
+
+Linea 4, Columna 1: Caracter '{'. No es parte del alfabeto clave. Reinicio.
+
+Linea 4, Columna 2: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 4, Columna 3: Caracter '*'. No es parte del alfabeto clave. Reinicio.
+
+Linea 4, Columna 4: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 4, Columna 5: Caracter 'e'. Transicion 0 -> 0
+Linea 4, Columna 6: Caracter 'x'. No es parte del alfabeto clave. Reinicio.
+
+Linea 4, Columna 7: Caracter 'p'. Transicion 0 -> 5
+Linea 4, Columna 8: Caracter 'a'. Transicion 5 -> 2
+Linea 4, Columna 9: Caracter 'n'. Transicion 2 -> 0
+Linea 4, Columna 10: Caracter 'd'. No es parte del alfabeto clave. Reinicio.
+
+Linea 4, Columna 11: Caracter 'e'. Transicion 0 -> 0
+Linea 4, Columna 12: Caracter 'd'. No es parte del alfabeto clave. Reinicio.
+
+Linea 4, Columna 13: Caracter 'c'. Transicion 0 -> 0
+Linea 4, Columna 14: Caracter 'o'. Transicion 0 -> 0
+Linea 4, Columna 15: Caracter 'l'. Transicion 0 -> 0
+Linea 4, Columna 16: Caracter 'o'. Transicion 0 -> 0
+Linea 4, Columna 17: Caracter 'r'. Transicion 0 -> 0
+Linea 4, Columna 18: Caracter 't'. Transicion 0 -> 0
+Linea 4, Columna 19: Caracter 'b'. No es parte del alfabeto clave. Reinicio.
+
+Linea 4, Columna 20: Caracter 'l'. Transicion 0 -> 0
+Linea 4, Columna 21: Caracter ';'. No es parte del alfabeto clave. Reinicio.
+
+Linea 4, Columna 22: Caracter ';'. No es parte del alfabeto clave. Reinicio.
+
+Linea 4, Columna 23: Caracter '}'. No es parte del alfabeto clave. Reinicio.
+
+Linea 4, Columna 24: Caracter '
+'. No es parte del alfabeto clave. Reinicio.
+
+Linea 5, Columna 1: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 5, Columna 2: Caracter 'm'. Transicion 0 -> 1
+Linea 5, Columna 3: Caracter 'a'. Transicion 1 -> 6
+Linea 5, Columna 4: Caracter 'r'. Transicion 6 -> 0
+Linea 5, Columna 5: Caracter 'g'. Transicion 0 -> 4
+Linea 5, Columna 6: Caracter 'l'. Transicion 4 -> 0
+Linea 5, Columna 7: Caracter '1'. No es parte del alfabeto clave. Reinicio.
+
+Linea 5, Columna 8: Caracter '4'. No es parte del alfabeto clave. Reinicio.
+
+Linea 5, Columna 9: Caracter '4'. No es parte del alfabeto clave. Reinicio.
+
+Linea 5, Columna 10: Caracter '0'. No es parte del alfabeto clave. Reinicio.
+
+Linea 5, Columna 11: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 5, Columna 12: Caracter 'm'. Transicion 0 -> 1
+Linea 5, Columna 13: Caracter 'a'. Transicion 1 -> 6
+Linea 5, Columna 14: Caracter 'r'. Transicion 6 -> 0
+Linea 5, Columna 15: Caracter 'g'. Transicion 0 -> 4
+Linea 5, Columna 16: Caracter 'r'. Transicion 4 -> 0
+Linea 5, Columna 17: Caracter '1'. No es parte del alfabeto clave. Reinicio.
+
+Linea 5, Columna 18: Caracter '4'. No es parte del alfabeto clave. Reinicio.
+
+Linea 5, Columna 19: Caracter '4'. No es parte del alfabeto clave. Reinicio.
+
+Linea 5, Columna 20: Caracter '0'. No es parte del alfabeto clave. Reinicio.
+
+Linea 5, Columna 21: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 5, Columna 22: Caracter 'v'. No es parte del alfabeto clave. Reinicio.
+
+Linea 5, Columna 23: Caracter 'i'. Transicion 0 -> 0
+Linea 5, Columna 24: Caracter 'e'. Transicion 0 -> 0
+Linea 5, Columna 25: Caracter 'w'. No es parte del alfabeto clave. Reinicio.
+
+Linea 5, Columna 26: Caracter 'w'. No es parte del alfabeto clave. Reinicio.
+
+Linea 5, Columna 27: Caracter '1'. No es parte del alfabeto clave. Reinicio.
+
+Linea 5, Columna 28: Caracter '1'. No es parte del alfabeto clave. Reinicio.
+
+Linea 5, Columna 29: Caracter '5'. No es parte del alfabeto clave. Reinicio.
+
+Linea 5, Columna 30: Caracter '2'. No es parte del alfabeto clave. Reinicio.
+
+Linea 5, Columna 31: Caracter '0'. No es parte del alfabeto clave. Reinicio.
+
+Linea 5, Columna 32: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 5, Columna 33: Caracter 'v'. No es parte del alfabeto clave. Reinicio.
+
+Linea 5, Columna 34: Caracter 'i'. Transicion 0 -> 0
+Linea 5, Columna 35: Caracter 'e'. Transicion 0 -> 0
+Linea 5, Columna 36: Caracter 'w'. No es parte del alfabeto clave. Reinicio.
+
+Linea 5, Columna 37: Caracter 'h'. Transicion 0 -> 0
+Linea 5, Columna 38: Caracter '8'. No es parte del alfabeto clave. Reinicio.
+
+Linea 5, Columna 39: Caracter '4'. No es parte del alfabeto clave. Reinicio.
+
+Linea 5, Columna 40: Caracter '0'. No es parte del alfabeto clave. Reinicio.
+
+Linea 5, Columna 41: Caracter '0'. No es parte del alfabeto clave. Reinicio.
+
+Linea 5, Columna 42: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 5, Columna 43: Caracter 'v'. No es parte del alfabeto clave. Reinicio.
+
+Linea 5, Columna 44: Caracter 'i'. Transicion 0 -> 0
+Linea 5, Columna 45: Caracter 'e'. Transicion 0 -> 0
+Linea 5, Columna 46: Caracter 'w'. No es parte del alfabeto clave. Reinicio.
+
+Linea 5, Columna 47: Caracter 'k'. No es parte del alfabeto clave. Reinicio.
+
+Linea 5, Columna 48: Caracter 'i'. Transicion 0 -> 0
+Linea 5, Columna 49: Caracter 'n'. Transicion 0 -> 0
+Linea 5, Columna 50: Caracter 'd'. No es parte del alfabeto clave. Reinicio.
+
+Linea 5, Columna 51: Caracter '0'. No es parte del alfabeto clave. Reinicio.
+
+Linea 5, Columna 52: Caracter '
+'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 1: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 2: Caracter 'p'. Transicion 0 -> 5
+Linea 6, Columna 3: Caracter 'a'. Transicion 5 -> 2
+Linea 6, Columna 4: Caracter 'r'. Transicion 2 -> 0
+Linea 6, Columna 5: Caracter 'd'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 6: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 7: Caracter 't'. Transicion 0 -> 0
+Linea 6, Columna 8: Caracter 'x'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 9: Caracter '7'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 10: Caracter '2'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 11: Caracter '0'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 12: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 13: Caracter 't'. Transicion 0 -> 0
+Linea 6, Columna 14: Caracter 'x'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 15: Caracter '1'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 16: Caracter '4'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 17: Caracter '4'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 18: Caracter '0'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 19: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 20: Caracter 't'. Transicion 0 -> 0
+Linea 6, Columna 21: Caracter 'x'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 22: Caracter '2'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 23: Caracter '1'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 24: Caracter '6'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 25: Caracter '0'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 26: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 27: Caracter 't'. Transicion 0 -> 0
+Linea 6, Columna 28: Caracter 'x'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 29: Caracter '2'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 30: Caracter '8'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 31: Caracter '8'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 32: Caracter '0'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 33: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 34: Caracter 't'. Transicion 0 -> 0
+Linea 6, Columna 35: Caracter 'x'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 36: Caracter '3'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 37: Caracter '6'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 38: Caracter '0'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 39: Caracter '0'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 40: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 41: Caracter 't'. Transicion 0 -> 0
+Linea 6, Columna 42: Caracter 'x'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 43: Caracter '4'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 44: Caracter '3'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 45: Caracter '2'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 46: Caracter '0'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 47: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 48: Caracter 't'. Transicion 0 -> 0
+Linea 6, Columna 49: Caracter 'x'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 50: Caracter '5'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 51: Caracter '0'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 52: Caracter '4'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 53: Caracter '0'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 54: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 55: Caracter 't'. Transicion 0 -> 0
+Linea 6, Columna 56: Caracter 'x'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 57: Caracter '5'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 58: Caracter '7'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 59: Caracter '6'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 60: Caracter '0'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 61: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 62: Caracter 't'. Transicion 0 -> 0
+Linea 6, Columna 63: Caracter 'x'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 64: Caracter '6'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 65: Caracter '4'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 66: Caracter '8'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 67: Caracter '0'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 68: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 69: Caracter 't'. Transicion 0 -> 0
+Linea 6, Columna 70: Caracter 'x'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 71: Caracter '7'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 72: Caracter '2'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 73: Caracter '0'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 74: Caracter '0'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 75: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 76: Caracter 't'. Transicion 0 -> 0
+Linea 6, Columna 77: Caracter 'x'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 78: Caracter '7'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 79: Caracter '9'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 80: Caracter '2'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 81: Caracter '0'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 82: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 83: Caracter 't'. Transicion 0 -> 0
+Linea 6, Columna 84: Caracter 'x'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 85: Caracter '8'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 86: Caracter '6'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 87: Caracter '4'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 88: Caracter '0'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 89: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 90: Caracter 'p'. Transicion 0 -> 5
+Linea 6, Columna 91: Caracter 'a'. Transicion 5 -> 2
+Linea 6, Columna 92: Caracter 'r'. Transicion 2 -> 0
+Linea 6, Columna 93: Caracter 'd'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 94: Caracter 'i'. Transicion 0 -> 0
+Linea 6, Columna 95: Caracter 'r'. Transicion 0 -> 0
+Linea 6, Columna 96: Caracter 'n'. Transicion 0 -> 0
+Linea 6, Columna 97: Caracter 'a'. Transicion 0 -> 2
+Linea 6, Columna 98: Caracter 't'. Transicion 2 -> 9
+Linea 6, Columna 99: Caracter 'u'. Transicion 9 -> 0
+Linea 6, Columna 100: Caracter 'r'. Transicion 0 -> 0
+Linea 6, Columna 101: Caracter 'a'. Transicion 0 -> 2
+Linea 6, Columna 102: Caracter 'l'. Transicion 2 -> 0
+Linea 6, Columna 103: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 104: Caracter 'p'. Transicion 0 -> 5
+Linea 6, Columna 105: Caracter 'a'. Transicion 5 -> 2
+Linea 6, Columna 106: Caracter 'r'. Transicion 2 -> 0
+Linea 6, Columna 107: Caracter 't'. Transicion 0 -> 0
+Linea 6, Columna 108: Caracter 'i'. Transicion 0 -> 0
+Linea 6, Columna 109: Caracter 'g'. Transicion 0 -> 4
+Linea 6, Columna 110: Caracter 'h'. Transicion 4 -> 0
+Linea 6, Columna 111: Caracter 't'. Transicion 0 -> 0
+Linea 6, Columna 112: Caracter 'e'. Transicion 0 -> 0
+Linea 6, Columna 113: Caracter 'n'. Transicion 0 -> 0
+Linea 6, Columna 114: Caracter 'f'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 115: Caracter 'a'. Transicion 0 -> 2
+Linea 6, Columna 116: Caracter 'c'. Transicion 2 -> 8
+Linea 6, Columna 117: Caracter 't'. Transicion 8 -> 0
+Linea 6, Columna 118: Caracter 'o'. Transicion 0 -> 0
+Linea 6, Columna 119: Caracter 'r'. Transicion 0 -> 0
+Linea 6, Columna 120: Caracter '0'. No es parte del alfabeto clave. Reinicio.
+
+Linea 6, Columna 121: Caracter '
+'. No es parte del alfabeto clave. Reinicio.
+
+Linea 7, Columna 1: Caracter '
+'. No es parte del alfabeto clave. Reinicio.
+
+Linea 8, Columna 1: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 8, Columna 2: Caracter 'f'. No es parte del alfabeto clave. Reinicio.
+
+Linea 8, Columna 3: Caracter '0'. No es parte del alfabeto clave. Reinicio.
+
+Linea 8, Columna 4: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 8, Columna 5: Caracter 'f'. No es parte del alfabeto clave. Reinicio.
+
+Linea 8, Columna 6: Caracter 's'. Transicion 0 -> 3
+Linea 8, Columna 7: Caracter '2'. No es parte del alfabeto clave. Reinicio.
+
+Linea 8, Columna 8: Caracter '4'. No es parte del alfabeto clave. Reinicio.
+
+Linea 8, Columna 9: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 8, Columna 10: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 8, Columna 11: Caracter 'c'. Transicion 0 -> 0
+Linea 8, Columna 12: Caracter 'f'. No es parte del alfabeto clave. Reinicio.
+
+Linea 8, Columna 13: Caracter '0'. No es parte del alfabeto clave. Reinicio.
+
+Linea 8, Columna 14: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 8, Columna 15: Caracter 'I'. No es parte del alfabeto clave. Reinicio.
+
+Linea 8, Columna 16: Caracter 'N'. No es parte del alfabeto clave. Reinicio.
+
+Linea 8, Columna 17: Caracter 'F'. No es parte del alfabeto clave. Reinicio.
+
+Linea 8, Columna 18: Caracter 'O'. No es parte del alfabeto clave. Reinicio.
+
+Linea 8, Columna 19: Caracter 'R'. No es parte del alfabeto clave. Reinicio.
+
+Linea 8, Columna 20: Caracter 'M'. No es parte del alfabeto clave. Reinicio.
+
+Linea 8, Columna 21: Caracter 'E'. No es parte del alfabeto clave. Reinicio.
+
+Linea 8, Columna 22: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 8, Columna 23: Caracter 'D'. No es parte del alfabeto clave. Reinicio.
+
+Linea 8, Columna 24: Caracter 'E'. No es parte del alfabeto clave. Reinicio.
+
+Linea 8, Columna 25: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 8, Columna 26: Caracter 'S'. No es parte del alfabeto clave. Reinicio.
+
+Linea 8, Columna 27: Caracter 'E'. No es parte del alfabeto clave. Reinicio.
+
+Linea 8, Columna 28: Caracter 'G'. No es parte del alfabeto clave. Reinicio.
+
+Linea 8, Columna 29: Caracter 'U'. No es parte del alfabeto clave. Reinicio.
+
+Linea 8, Columna 30: Caracter 'R'. No es parte del alfabeto clave. Reinicio.
+
+Linea 8, Columna 31: Caracter 'I'. No es parte del alfabeto clave. Reinicio.
+
+Linea 8, Columna 32: Caracter 'D'. No es parte del alfabeto clave. Reinicio.
+
+Linea 8, Columna 33: Caracter 'A'. No es parte del alfabeto clave. Reinicio.
+
+Linea 8, Columna 34: Caracter 'D'. No es parte del alfabeto clave. Reinicio.
+
+Linea 8, Columna 35: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 8, Columna 36: Caracter '
+'. No es parte del alfabeto clave. Reinicio.
+
+Linea 9, Columna 1: Caracter '-'. No es parte del alfabeto clave. Reinicio.
+
+Linea 9, Columna 2: Caracter '-'. No es parte del alfabeto clave. Reinicio.
+
+Linea 9, Columna 3: Caracter '-'. No es parte del alfabeto clave. Reinicio.
+
+Linea 9, Columna 4: Caracter '-'. No es parte del alfabeto clave. Reinicio.
+
+Linea 9, Columna 5: Caracter '-'. No es parte del alfabeto clave. Reinicio.
+
+Linea 9, Columna 6: Caracter '-'. No es parte del alfabeto clave. Reinicio.
+
+Linea 9, Columna 7: Caracter '-'. No es parte del alfabeto clave. Reinicio.
+
+Linea 9, Columna 8: Caracter '-'. No es parte del alfabeto clave. Reinicio.
+
+Linea 9, Columna 9: Caracter '-'. No es parte del alfabeto clave. Reinicio.
+
+Linea 9, Columna 10: Caracter '-'. No es parte del alfabeto clave. Reinicio.
+
+Linea 9, Columna 11: Caracter '-'. No es parte del alfabeto clave. Reinicio.
+
+Linea 9, Columna 12: Caracter '-'. No es parte del alfabeto clave. Reinicio.
+
+Linea 9, Columna 13: Caracter '-'. No es parte del alfabeto clave. Reinicio.
+
+Linea 9, Columna 14: Caracter '-'. No es parte del alfabeto clave. Reinicio.
+
+Linea 9, Columna 15: Caracter '-'. No es parte del alfabeto clave. Reinicio.
+
+Linea 9, Columna 16: Caracter '-'. No es parte del alfabeto clave. Reinicio.
+
+Linea 9, Columna 17: Caracter '-'. No es parte del alfabeto clave. Reinicio.
+
+Linea 9, Columna 18: Caracter '-'. No es parte del alfabeto clave. Reinicio.
+
+Linea 9, Columna 19: Caracter '-'. No es parte del alfabeto clave. Reinicio.
+
+Linea 9, Columna 20: Caracter '-'. No es parte del alfabeto clave. Reinicio.
+
+Linea 9, Columna 21: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 9, Columna 22: Caracter '
+'. No es parte del alfabeto clave. Reinicio.
+
+Linea 10, Columna 1: Caracter 'F'. No es parte del alfabeto clave. Reinicio.
+
+Linea 10, Columna 2: Caracter 'e'. Transicion 0 -> 0
+Linea 10, Columna 3: Caracter 'c'. Transicion 0 -> 0
+Linea 10, Columna 4: Caracter 'h'. Transicion 0 -> 0
+Linea 10, Columna 5: Caracter 'a'. Transicion 0 -> 2
+Linea 10, Columna 6: Caracter ':'. No es parte del alfabeto clave. Reinicio.
+
+Linea 10, Columna 7: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 10, Columna 8: Caracter '0'. No es parte del alfabeto clave. Reinicio.
+
+Linea 10, Columna 9: Caracter '1'. No es parte del alfabeto clave. Reinicio.
+
+Linea 10, Columna 10: Caracter '/'. No es parte del alfabeto clave. Reinicio.
+
+Linea 10, Columna 11: Caracter '1'. No es parte del alfabeto clave. Reinicio.
+
+Linea 10, Columna 12: Caracter '2'. No es parte del alfabeto clave. Reinicio.
+
+Linea 10, Columna 13: Caracter '/'. No es parte del alfabeto clave. Reinicio.
+
+Linea 10, Columna 14: Caracter '2'. No es parte del alfabeto clave. Reinicio.
+
+Linea 10, Columna 15: Caracter '0'. No es parte del alfabeto clave. Reinicio.
+
+Linea 10, Columna 16: Caracter '2'. No es parte del alfabeto clave. Reinicio.
+
+Linea 10, Columna 17: Caracter '5'. No es parte del alfabeto clave. Reinicio.
+
+Linea 10, Columna 18: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 10, Columna 19: Caracter '
+'. No es parte del alfabeto clave. Reinicio.
+
+Linea 11, Columna 1: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 11, Columna 2: Caracter '
+'. No es parte del alfabeto clave. Reinicio.
+
+Linea 12, Columna 1: Caracter 'S'. No es parte del alfabeto clave. Reinicio.
+
+Linea 12, Columna 2: Caracter 'e'. Transicion 0 -> 0
+Linea 12, Columna 3: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 12, Columna 4: Caracter 'h'. Transicion 0 -> 0
+Linea 12, Columna 5: Caracter 'a'. Transicion 0 -> 2
+Linea 12, Columna 6: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 12, Columna 7: Caracter 'd'. No es parte del alfabeto clave. Reinicio.
+
+Linea 12, Columna 8: Caracter 'e'. Transicion 0 -> 0
+Linea 12, Columna 9: Caracter 't'. Transicion 0 -> 0
+Linea 12, Columna 10: Caracter 'e'. Transicion 0 -> 0
+Linea 12, Columna 11: Caracter 'c'. Transicion 0 -> 0
+Linea 12, Columna 12: Caracter 't'. Transicion 0 -> 0
+Linea 12, Columna 13: Caracter 'a'. Transicion 0 -> 2
+Linea 12, Columna 14: Caracter 'd'. No es parte del alfabeto clave. Reinicio.
+
+Linea 12, Columna 15: Caracter 'o'. Transicion 0 -> 0
+Linea 12, Columna 16: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 12, Columna 17: Caracter 'u'. Transicion 0 -> 0
+Linea 12, Columna 18: Caracter 'n'. Transicion 0 -> 0
+Linea 12, Columna 19: Caracter 'a'. Transicion 0 -> 2
+Linea 12, Columna 20: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 12, Columna 21: Caracter 'a'. Transicion 0 -> 2
+Linea 12, Columna 22: Caracter 'm'. Transicion 2 -> 7
+Linea 12, Columna 23: Caracter 'e'. Transicion 7 -> 15
+Linea 12, Columna 24: Caracter 'n'. Transicion 15 -> 23
+Linea 12, Columna 25: Caracter 'a'. Transicion 23 -> 31
+Linea 12, Columna 26: Caracter 'z'. Transicion 31 -> 38
+Linea 12, Columna 27: Caracter 'a'. Transicion 38 -> 45
+Linea 12, Columna 28: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 12, Columna 29: Caracter 'e'. Transicion 0 -> 0
+Linea 12, Columna 30: Caracter 'n'. Transicion 0 -> 0
+Linea 12, Columna 31: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 12, Columna 32: Caracter 'e'. Transicion 0 -> 0
+Linea 12, Columna 33: Caracter 'l'. Transicion 0 -> 0
+Linea 12, Columna 34: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 12, Columna 35: Caracter 's'. Transicion 0 -> 3
+Linea 12, Columna 36: Caracter 'e'. Transicion 3 -> 10
+Linea 12, Columna 37: Caracter 'c'. Transicion 10 -> 18
+Linea 12, Columna 38: Caracter 't'. Transicion 18 -> 0
+Linea 12, Columna 39: Caracter 'o'. Transicion 0 -> 0
+Linea 12, Columna 40: Caracter 'r'. Transicion 0 -> 0
+Linea 12, Columna 41: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 12, Columna 42: Caracter '7'. No es parte del alfabeto clave. Reinicio.
+
+Linea 12, Columna 43: Caracter '.'. No es parte del alfabeto clave. Reinicio.
+
+Linea 12, Columna 44: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 12, Columna 45: Caracter '
+'. No es parte del alfabeto clave. Reinicio.
+
+Linea 13, Columna 1: Caracter 'E'. No es parte del alfabeto clave. Reinicio.
+
+Linea 13, Columna 2: Caracter 'l'. Transicion 0 -> 0
+Linea 13, Columna 3: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 13, Columna 4: Caracter 's'. Transicion 0 -> 3
+Linea 13, Columna 5: Caracter 'u'. Transicion 3 -> 0
+Linea 13, Columna 6: Caracter 'j'. No es parte del alfabeto clave. Reinicio.
+
+Linea 13, Columna 7: Caracter 'e'. Transicion 0 -> 0
+Linea 13, Columna 8: Caracter 't'. Transicion 0 -> 0
+Linea 13, Columna 9: Caracter 'o'. Transicion 0 -> 0
+Linea 13, Columna 10: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 13, Columna 11: Caracter 'i'. Transicion 0 -> 0
+Linea 13, Columna 12: Caracter 'n'. Transicion 0 -> 0
+Linea 13, Columna 13: Caracter 't'. Transicion 0 -> 0
+Linea 13, Columna 14: Caracter 'e'. Transicion 0 -> 0
+Linea 13, Columna 15: Caracter 'n'. Transicion 0 -> 0
+Linea 13, Columna 16: Caracter 't'. Transicion 0 -> 0
+Linea 13, Columna 17: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 13, Columna 18: Caracter '''. No es parte del alfabeto clave. Reinicio.
+
+Linea 13, Columna 19: Caracter 'f'. No es parte del alfabeto clave. Reinicio.
+
+Linea 13, Columna 20: Caracter '3'. No es parte del alfabeto clave. Reinicio.
+
+Linea 13, Columna 21: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 13, Columna 22: Caracter 'a'. Transicion 0 -> 2
+Linea 13, Columna 23: Caracter 't'. Transicion 2 -> 9
+Linea 13, Columna 24: Caracter 'a'. Transicion 9 -> 17
+Linea 13, Columna 25: Caracter 'c'. Transicion 17 -> 25
+Linea 13, Columna 26: Caracter 'a'. Transicion 25 -> 33
+Linea 13, Columna 27: Caracter 'r'. Transicion 33 -> 40 [PALABRA ENCONTRADA: atacar]
+Linea 13, Columna 28: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 13, Columna 29: Caracter 'a'. Transicion 0 -> 2
+Linea 13, Columna 30: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 13, Columna 31: Caracter 'l'. Transicion 0 -> 0
+Linea 13, Columna 32: Caracter 'o'. Transicion 0 -> 0
+Linea 13, Columna 33: Caracter 's'. Transicion 0 -> 3
+Linea 13, Columna 34: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 13, Columna 35: Caracter 'g'. Transicion 0 -> 4
+Linea 13, Columna 36: Caracter 'u'. Transicion 4 -> 0
+Linea 13, Columna 37: Caracter 'a'. Transicion 0 -> 2
+Linea 13, Columna 38: Caracter 'r'. Transicion 2 -> 0
+Linea 13, Columna 39: Caracter 'd'. No es parte del alfabeto clave. Reinicio.
+
+Linea 13, Columna 40: Caracter 'i'. Transicion 0 -> 0
+Linea 13, Columna 41: Caracter 'a'. Transicion 0 -> 2
+Linea 13, Columna 42: Caracter 's'. Transicion 2 -> 3
+Linea 13, Columna 43: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 13, Columna 44: Caracter 'd'. No es parte del alfabeto clave. Reinicio.
+
+Linea 13, Columna 45: Caracter 'e'. Transicion 0 -> 0
+Linea 13, Columna 46: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 13, Columna 47: Caracter 's'. Transicion 0 -> 3
+Linea 13, Columna 48: Caracter 'e'. Transicion 3 -> 10
+Linea 13, Columna 49: Caracter 'g'. Transicion 10 -> 4
+Linea 13, Columna 50: Caracter 'u'. Transicion 4 -> 0
+Linea 13, Columna 51: Caracter 'r'. Transicion 0 -> 0
+Linea 13, Columna 52: Caracter 'i'. Transicion 0 -> 0
+Linea 13, Columna 53: Caracter 'd'. No es parte del alfabeto clave. Reinicio.
+
+Linea 13, Columna 54: Caracter 'a'. Transicion 0 -> 2
+Linea 13, Columna 55: Caracter 'd'. No es parte del alfabeto clave. Reinicio.
+
+Linea 13, Columna 56: Caracter '.'. No es parte del alfabeto clave. Reinicio.
+
+Linea 13, Columna 57: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 13, Columna 58: Caracter '
+'. No es parte del alfabeto clave. Reinicio.
+
+Linea 14, Columna 1: Caracter 'S'. No es parte del alfabeto clave. Reinicio.
+
+Linea 14, Columna 2: Caracter 'e'. Transicion 0 -> 0
+Linea 14, Columna 3: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 14, Columna 4: Caracter 'l'. Transicion 0 -> 0
+Linea 14, Columna 5: Caracter 'e'. Transicion 0 -> 0
+Linea 14, Columna 6: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 14, Columna 7: Caracter 'e'. Transicion 0 -> 0
+Linea 14, Columna 8: Caracter 's'. Transicion 0 -> 3
+Linea 14, Columna 9: Caracter 'c'. Transicion 3 -> 0
+Linea 14, Columna 10: Caracter 'u'. Transicion 0 -> 0
+Linea 14, Columna 11: Caracter 'c'. Transicion 0 -> 0
+Linea 14, Columna 12: Caracter 'h'. Transicion 0 -> 0
+Linea 14, Columna 13: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 14, Columna 14: Caracter '''. No es parte del alfabeto clave. Reinicio.
+
+Linea 14, Columna 15: Caracter 'f'. No es parte del alfabeto clave. Reinicio.
+
+Linea 14, Columna 16: Caracter '3'. No es parte del alfabeto clave. Reinicio.
+
+Linea 14, Columna 17: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 14, Columna 18: Caracter 'a'. Transicion 0 -> 2
+Linea 14, Columna 19: Caracter 'm'. Transicion 2 -> 7
+Linea 14, Columna 20: Caracter 'e'. Transicion 7 -> 15
+Linea 14, Columna 21: Caracter 'n'. Transicion 15 -> 23
+Linea 14, Columna 22: Caracter 'a'. Transicion 23 -> 31
+Linea 14, Columna 23: Caracter 'z'. Transicion 31 -> 38
+Linea 14, Columna 24: Caracter 'a'. Transicion 38 -> 45
+Linea 14, Columna 25: Caracter 'r'. Transicion 45 -> 50 [PALABRA ENCONTRADA: amenazar]
+Linea 14, Columna 26: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 14, Columna 27: Caracter 'a'. Transicion 0 -> 2
+Linea 14, Columna 28: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 14, Columna 29: Caracter 'l'. Transicion 0 -> 0
+Linea 14, Columna 30: Caracter 'o'. Transicion 0 -> 0
+Linea 14, Columna 31: Caracter 's'. Transicion 0 -> 3
+Linea 14, Columna 32: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 14, Columna 33: Caracter 'c'. Transicion 0 -> 0
+Linea 14, Columna 34: Caracter 'i'. Transicion 0 -> 0
+Linea 14, Columna 35: Caracter 'v'. No es parte del alfabeto clave. Reinicio.
+
+Linea 14, Columna 36: Caracter 'i'. Transicion 0 -> 0
+Linea 14, Columna 37: Caracter 'l'. Transicion 0 -> 0
+Linea 14, Columna 38: Caracter 'e'. Transicion 0 -> 0
+Linea 14, Columna 39: Caracter 's'. Transicion 0 -> 3
+Linea 14, Columna 40: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 14, Columna 41: Caracter 'p'. Transicion 0 -> 5
+Linea 14, Columna 42: Caracter 'r'. Transicion 5 -> 0
+Linea 14, Columna 43: Caracter 'e'. Transicion 0 -> 0
+Linea 14, Columna 44: Caracter 's'. Transicion 0 -> 3
+Linea 14, Columna 45: Caracter 'e'. Transicion 3 -> 10
+Linea 14, Columna 46: Caracter 'n'. Transicion 10 -> 0
+Linea 14, Columna 47: Caracter 't'. Transicion 0 -> 0
+Linea 14, Columna 48: Caracter 'e'. Transicion 0 -> 0
+Linea 14, Columna 49: Caracter 's'. Transicion 0 -> 3
+Linea 14, Columna 50: Caracter '.'. No es parte del alfabeto clave. Reinicio.
+
+Linea 14, Columna 51: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 14, Columna 52: Caracter '
+'. No es parte del alfabeto clave. Reinicio.
+
+Linea 15, Columna 1: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 15, Columna 2: Caracter '
+'. No es parte del alfabeto clave. Reinicio.
+
+Linea 16, Columna 1: Caracter 'L'. No es parte del alfabeto clave. Reinicio.
+
+Linea 16, Columna 2: Caracter 'i'. Transicion 0 -> 0
+Linea 16, Columna 3: Caracter 's'. Transicion 0 -> 3
+Linea 16, Columna 4: Caracter 't'. Transicion 3 -> 0
+Linea 16, Columna 5: Caracter 'a'. Transicion 0 -> 2
+Linea 16, Columna 6: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 16, Columna 7: Caracter 'd'. No es parte del alfabeto clave. Reinicio.
+
+Linea 16, Columna 8: Caracter 'e'. Transicion 0 -> 0
+Linea 16, Columna 9: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 16, Columna 10: Caracter 'a'. Transicion 0 -> 2
+Linea 16, Columna 11: Caracter 'c'. Transicion 2 -> 8
+Linea 16, Columna 12: Caracter 'c'. Transicion 8 -> 0
+Linea 16, Columna 13: Caracter 'i'. Transicion 0 -> 0
+Linea 16, Columna 14: Caracter 'o'. Transicion 0 -> 0
+Linea 16, Columna 15: Caracter 'n'. Transicion 0 -> 0
+Linea 16, Columna 16: Caracter 'e'. Transicion 0 -> 0
+Linea 16, Columna 17: Caracter 's'. Transicion 0 -> 3
+Linea 16, Columna 18: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 16, Columna 19: Caracter 'p'. Transicion 0 -> 5
+Linea 16, Columna 20: Caracter 'r'. Transicion 5 -> 0
+Linea 16, Columna 21: Caracter 'o'. Transicion 0 -> 0
+Linea 16, Columna 22: Caracter 'h'. Transicion 0 -> 0
+Linea 16, Columna 23: Caracter 'i'. Transicion 0 -> 0
+Linea 16, Columna 24: Caracter 'b'. No es parte del alfabeto clave. Reinicio.
+
+Linea 16, Columna 25: Caracter 'i'. Transicion 0 -> 0
+Linea 16, Columna 26: Caracter 'd'. No es parte del alfabeto clave. Reinicio.
+
+Linea 16, Columna 27: Caracter 'a'. Transicion 0 -> 2
+Linea 16, Columna 28: Caracter 's'. Transicion 2 -> 3
+Linea 16, Columna 29: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 16, Columna 30: Caracter 'd'. No es parte del alfabeto clave. Reinicio.
+
+Linea 16, Columna 31: Caracter 'e'. Transicion 0 -> 0
+Linea 16, Columna 32: Caracter 't'. Transicion 0 -> 0
+Linea 16, Columna 33: Caracter 'e'. Transicion 0 -> 0
+Linea 16, Columna 34: Caracter 'c'. Transicion 0 -> 0
+Linea 16, Columna 35: Caracter 't'. Transicion 0 -> 0
+Linea 16, Columna 36: Caracter 'a'. Transicion 0 -> 2
+Linea 16, Columna 37: Caracter 'd'. No es parte del alfabeto clave. Reinicio.
+
+Linea 16, Columna 38: Caracter 'a'. Transicion 0 -> 2
+Linea 16, Columna 39: Caracter 's'. Transicion 2 -> 3
+Linea 16, Columna 40: Caracter ':'. No es parte del alfabeto clave. Reinicio.
+
+Linea 16, Columna 41: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 16, Columna 42: Caracter '
+'. No es parte del alfabeto clave. Reinicio.
+
+Linea 17, Columna 1: Caracter '1'. No es parte del alfabeto clave. Reinicio.
+
+Linea 17, Columna 2: Caracter '.'. No es parte del alfabeto clave. Reinicio.
+
+Linea 17, Columna 3: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 17, Columna 4: Caracter 'N'. No es parte del alfabeto clave. Reinicio.
+
+Linea 17, Columna 5: Caracter 'o'. Transicion 0 -> 0
+Linea 17, Columna 6: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 17, Columna 7: Caracter 's'. Transicion 0 -> 3
+Linea 17, Columna 8: Caracter 'e'. Transicion 3 -> 10
+Linea 17, Columna 9: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 17, Columna 10: Caracter 'p'. Transicion 0 -> 5
+Linea 17, Columna 11: Caracter 'e'. Transicion 5 -> 0
+Linea 17, Columna 12: Caracter 'r'. Transicion 0 -> 0
+Linea 17, Columna 13: Caracter 'm'. Transicion 0 -> 1
+Linea 17, Columna 14: Caracter 'i'. Transicion 1 -> 0
+Linea 17, Columna 15: Caracter 't'. Transicion 0 -> 0
+Linea 17, Columna 16: Caracter 'e'. Transicion 0 -> 0
+Linea 17, Columna 17: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 17, Columna 18: Caracter 'g'. Transicion 0 -> 4
+Linea 17, Columna 19: Caracter 'o'. Transicion 4 -> 11
+Linea 17, Columna 20: Caracter 'l'. Transicion 11 -> 19
+Linea 17, Columna 21: Caracter 'p'. Transicion 19 -> 27
+Linea 17, Columna 22: Caracter 'e'. Transicion 27 -> 35
+Linea 17, Columna 23: Caracter 'a'. Transicion 35 -> 42
+Linea 17, Columna 24: Caracter 'r'. Transicion 42 -> 47 [PALABRA ENCONTRADA: golpear]
+Linea 17, Columna 25: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 17, Columna 26: Caracter 'l'. Transicion 0 -> 0
+Linea 17, Columna 27: Caracter 'a'. Transicion 0 -> 2
+Linea 17, Columna 28: Caracter 's'. Transicion 2 -> 3
+Linea 17, Columna 29: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 17, Columna 30: Caracter 'e'. Transicion 0 -> 0
+Linea 17, Columna 31: Caracter 's'. Transicion 0 -> 3
+Linea 17, Columna 32: Caracter 't'. Transicion 3 -> 0
+Linea 17, Columna 33: Caracter 'r'. Transicion 0 -> 0
+Linea 17, Columna 34: Caracter 'u'. Transicion 0 -> 0
+Linea 17, Columna 35: Caracter 'c'. Transicion 0 -> 0
+Linea 17, Columna 36: Caracter 't'. Transicion 0 -> 0
+Linea 17, Columna 37: Caracter 'u'. Transicion 0 -> 0
+Linea 17, Columna 38: Caracter 'r'. Transicion 0 -> 0
+Linea 17, Columna 39: Caracter 'a'. Transicion 0 -> 2
+Linea 17, Columna 40: Caracter 's'. Transicion 2 -> 3
+Linea 17, Columna 41: Caracter '.'. No es parte del alfabeto clave. Reinicio.
+
+Linea 17, Columna 42: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 17, Columna 43: Caracter '
+'. No es parte del alfabeto clave. Reinicio.
+
+Linea 18, Columna 1: Caracter '2'. No es parte del alfabeto clave. Reinicio.
+
+Linea 18, Columna 2: Caracter '.'. No es parte del alfabeto clave. Reinicio.
+
+Linea 18, Columna 3: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 18, Columna 4: Caracter 'E'. No es parte del alfabeto clave. Reinicio.
+
+Linea 18, Columna 5: Caracter 's'. Transicion 0 -> 3
+Linea 18, Columna 6: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 18, Columna 7: Caracter 'u'. Transicion 0 -> 0
+Linea 18, Columna 8: Caracter 'n'. Transicion 0 -> 0
+Linea 18, Columna 9: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 18, Columna 10: Caracter 'd'. No es parte del alfabeto clave. Reinicio.
+
+Linea 18, Columna 11: Caracter 'e'. Transicion 0 -> 0
+Linea 18, Columna 12: Caracter 'l'. Transicion 0 -> 0
+Linea 18, Columna 13: Caracter 'i'. Transicion 0 -> 0
+Linea 18, Columna 14: Caracter 't'. Transicion 0 -> 0
+Linea 18, Columna 15: Caracter 'o'. Transicion 0 -> 0
+Linea 18, Columna 16: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 18, Columna 17: Caracter 'g'. Transicion 0 -> 4
+Linea 18, Columna 18: Caracter 'r'. Transicion 4 -> 0
+Linea 18, Columna 19: Caracter 'a'. Transicion 0 -> 2
+Linea 18, Columna 20: Caracter 'v'. No es parte del alfabeto clave. Reinicio.
+
+Linea 18, Columna 21: Caracter 'e'. Transicion 0 -> 0
+Linea 18, Columna 22: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 18, Columna 23: Caracter 's'. Transicion 0 -> 3
+Linea 18, Columna 24: Caracter 'e'. Transicion 3 -> 10
+Linea 18, Columna 25: Caracter 'c'. Transicion 10 -> 18
+Linea 18, Columna 26: Caracter 'u'. Transicion 18 -> 26
+Linea 18, Columna 27: Caracter 'e'. Transicion 26 -> 34
+Linea 18, Columna 28: Caracter 's'. Transicion 34 -> 41
+Linea 18, Columna 29: Caracter 't'. Transicion 41 -> 46
+Linea 18, Columna 30: Caracter 'r'. Transicion 46 -> 51
+Linea 18, Columna 31: Caracter 'a'. Transicion 51 -> 52
+Linea 18, Columna 32: Caracter 'r'. Transicion 52 -> 53 [PALABRA ENCONTRADA: secuestrar]
+Linea 18, Columna 33: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 18, Columna 34: Caracter 'o'. Transicion 0 -> 0
+Linea 18, Columna 35: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 18, Columna 36: Caracter 'r'. Transicion 0 -> 0
+Linea 18, Columna 37: Caracter 'e'. Transicion 0 -> 0
+Linea 18, Columna 38: Caracter 't'. Transicion 0 -> 0
+Linea 18, Columna 39: Caracter 'e'. Transicion 0 -> 0
+Linea 18, Columna 40: Caracter 'n'. Transicion 0 -> 0
+Linea 18, Columna 41: Caracter 'e'. Transicion 0 -> 0
+Linea 18, Columna 42: Caracter 'r'. Transicion 0 -> 0
+Linea 18, Columna 43: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 18, Columna 44: Caracter 'p'. Transicion 0 -> 5
+Linea 18, Columna 45: Caracter 'e'. Transicion 5 -> 0
+Linea 18, Columna 46: Caracter 'r'. Transicion 0 -> 0
+Linea 18, Columna 47: Caracter 's'. Transicion 0 -> 3
+Linea 18, Columna 48: Caracter 'o'. Transicion 3 -> 0
+Linea 18, Columna 49: Caracter 'n'. Transicion 0 -> 0
+Linea 18, Columna 50: Caracter 'a'. Transicion 0 -> 2
+Linea 18, Columna 51: Caracter 's'. Transicion 2 -> 3
+Linea 18, Columna 52: Caracter '.'. No es parte del alfabeto clave. Reinicio.
+
+Linea 18, Columna 53: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 18, Columna 54: Caracter '
+'. No es parte del alfabeto clave. Reinicio.
+
+Linea 19, Columna 1: Caracter '3'. No es parte del alfabeto clave. Reinicio.
+
+Linea 19, Columna 2: Caracter '.'. No es parte del alfabeto clave. Reinicio.
+
+Linea 19, Columna 3: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 19, Columna 4: Caracter 'E'. No es parte del alfabeto clave. Reinicio.
+
+Linea 19, Columna 5: Caracter 's'. Transicion 0 -> 3
+Linea 19, Columna 6: Caracter 't'. Transicion 3 -> 0
+Linea 19, Columna 7: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 19, Columna 8: Caracter '''. No es parte del alfabeto clave. Reinicio.
+
+Linea 19, Columna 9: Caracter 'e'. Transicion 0 -> 0
+Linea 19, Columna 10: Caracter '1'. No es parte del alfabeto clave. Reinicio.
+
+Linea 19, Columna 11: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 19, Columna 12: Caracter 'p'. Transicion 0 -> 5
+Linea 19, Columna 13: Caracter 'r'. Transicion 5 -> 0
+Linea 19, Columna 14: Caracter 'o'. Transicion 0 -> 0
+Linea 19, Columna 15: Caracter 'h'. Transicion 0 -> 0
+Linea 19, Columna 16: Caracter 'i'. Transicion 0 -> 0
+Linea 19, Columna 17: Caracter 'b'. No es parte del alfabeto clave. Reinicio.
+
+Linea 19, Columna 18: Caracter 'i'. Transicion 0 -> 0
+Linea 19, Columna 19: Caracter 'd'. No es parte del alfabeto clave. Reinicio.
+
+Linea 19, Columna 20: Caracter 'o'. Transicion 0 -> 0
+Linea 19, Columna 21: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 19, Columna 22: Caracter 'm'. Transicion 0 -> 1
+Linea 19, Columna 23: Caracter 'a'. Transicion 1 -> 6
+Linea 19, Columna 24: Caracter 't'. Transicion 6 -> 14
+Linea 19, Columna 25: Caracter 'a'. Transicion 14 -> 22
+Linea 19, Columna 26: Caracter 'r'. Transicion 22 -> 30 [PALABRA ENCONTRADA: matar]
+Linea 19, Columna 27: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 19, Columna 28: Caracter '('. No es parte del alfabeto clave. Reinicio.
+
+Linea 19, Columna 29: Caracter 'o'. Transicion 0 -> 0
+Linea 19, Columna 30: Caracter 'b'. No es parte del alfabeto clave. Reinicio.
+
+Linea 19, Columna 31: Caracter 'v'. No es parte del alfabeto clave. Reinicio.
+
+Linea 19, Columna 32: Caracter 'i'. Transicion 0 -> 0
+Linea 19, Columna 33: Caracter 'a'. Transicion 0 -> 2
+Linea 19, Columna 34: Caracter 'm'. Transicion 2 -> 7
+Linea 19, Columna 35: Caracter 'e'. Transicion 7 -> 15
+Linea 19, Columna 36: Caracter 'n'. Transicion 15 -> 23
+Linea 19, Columna 37: Caracter 't'. Transicion 23 -> 0
+Linea 19, Columna 38: Caracter 'e'. Transicion 0 -> 0
+Linea 19, Columna 39: Caracter ')'. No es parte del alfabeto clave. Reinicio.
+
+Linea 19, Columna 40: Caracter '.'. No es parte del alfabeto clave. Reinicio.
+
+Linea 19, Columna 41: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 19, Columna 42: Caracter '
+'. No es parte del alfabeto clave. Reinicio.
+
+Linea 20, Columna 1: Caracter '4'. No es parte del alfabeto clave. Reinicio.
+
+Linea 20, Columna 2: Caracter '.'. No es parte del alfabeto clave. Reinicio.
+
+Linea 20, Columna 3: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 20, Columna 4: Caracter 'L'. No es parte del alfabeto clave. Reinicio.
+
+Linea 20, Columna 5: Caracter 'a'. Transicion 0 -> 2
+Linea 20, Columna 6: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 20, Columna 7: Caracter 'a'. Transicion 0 -> 2
+Linea 20, Columna 8: Caracter 'c'. Transicion 2 -> 8
+Linea 20, Columna 9: Caracter 'c'. Transicion 8 -> 0
+Linea 20, Columna 10: Caracter 'i'. Transicion 0 -> 0
+Linea 20, Columna 11: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 20, Columna 12: Caracter '''. No es parte del alfabeto clave. Reinicio.
+
+Linea 20, Columna 13: Caracter 'f'. No es parte del alfabeto clave. Reinicio.
+
+Linea 20, Columna 14: Caracter '3'. No es parte del alfabeto clave. Reinicio.
+
+Linea 20, Columna 15: Caracter 'n'. Transicion 0 -> 0
+Linea 20, Columna 16: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 20, Columna 17: Caracter 'd'. No es parte del alfabeto clave. Reinicio.
+
+Linea 20, Columna 18: Caracter 'e'. Transicion 0 -> 0
+Linea 20, Columna 19: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 20, Columna 20: Caracter 'm'. Transicion 0 -> 1
+Linea 20, Columna 21: Caracter 'a'. Transicion 1 -> 6
+Linea 20, Columna 22: Caracter 's'. Transicion 6 -> 13
+Linea 20, Columna 23: Caracter 'a'. Transicion 13 -> 21
+Linea 20, Columna 24: Caracter 'c'. Transicion 21 -> 29
+Linea 20, Columna 25: Caracter 'r'. Transicion 29 -> 37
+Linea 20, Columna 26: Caracter 'a'. Transicion 37 -> 44
+Linea 20, Columna 27: Caracter 'r'. Transicion 44 -> 49 [PALABRA ENCONTRADA: masacrar]
+Linea 20, Columna 28: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 20, Columna 29: Caracter 'e'. Transicion 0 -> 0
+Linea 20, Columna 30: Caracter 's'. Transicion 0 -> 3
+Linea 20, Columna 31: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 20, Columna 32: Caracter 'i'. Transicion 0 -> 0
+Linea 20, Columna 33: Caracter 'n'. Transicion 0 -> 0
+Linea 20, Columna 34: Caracter 'a'. Transicion 0 -> 2
+Linea 20, Columna 35: Caracter 'd'. No es parte del alfabeto clave. Reinicio.
+
+Linea 20, Columna 36: Caracter 'm'. Transicion 0 -> 1
+Linea 20, Columna 37: Caracter 'i'. Transicion 1 -> 0
+Linea 20, Columna 38: Caracter 's'. Transicion 0 -> 3
+Linea 20, Columna 39: Caracter 'i'. Transicion 3 -> 0
+Linea 20, Columna 40: Caracter 'b'. No es parte del alfabeto clave. Reinicio.
+
+Linea 20, Columna 41: Caracter 'l'. Transicion 0 -> 0
+Linea 20, Columna 42: Caracter 'e'. Transicion 0 -> 0
+Linea 20, Columna 43: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 20, Columna 44: Caracter 'e'. Transicion 0 -> 0
+Linea 20, Columna 45: Caracter 'n'. Transicion 0 -> 0
+Linea 20, Columna 46: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 20, Columna 47: Caracter 'e'. Transicion 0 -> 0
+Linea 20, Columna 48: Caracter 's'. Transicion 0 -> 3
+Linea 20, Columna 49: Caracter 't'. Transicion 3 -> 0
+Linea 20, Columna 50: Caracter 'e'. Transicion 0 -> 0
+Linea 20, Columna 51: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 20, Columna 52: Caracter 's'. Transicion 0 -> 3
+Linea 20, Columna 53: Caracter 'e'. Transicion 3 -> 10
+Linea 20, Columna 54: Caracter 'r'. Transicion 10 -> 0
+Linea 20, Columna 55: Caracter 'v'. No es parte del alfabeto clave. Reinicio.
+
+Linea 20, Columna 56: Caracter 'i'. Transicion 0 -> 0
+Linea 20, Columna 57: Caracter 'd'. No es parte del alfabeto clave. Reinicio.
+
+Linea 20, Columna 58: Caracter 'o'. Transicion 0 -> 0
+Linea 20, Columna 59: Caracter 'r'. Transicion 0 -> 0
+Linea 20, Columna 60: Caracter '.'. No es parte del alfabeto clave. Reinicio.
+
+Linea 20, Columna 61: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 20, Columna 62: Caracter '
+'. No es parte del alfabeto clave. Reinicio.
+
+Linea 21, Columna 1: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 21, Columna 2: Caracter '
+'. No es parte del alfabeto clave. Reinicio.
+
+Linea 22, Columna 1: Caracter 'N'. No es parte del alfabeto clave. Reinicio.
+
+Linea 22, Columna 2: Caracter 'o'. Transicion 0 -> 0
+Linea 22, Columna 3: Caracter 't'. Transicion 0 -> 0
+Linea 22, Columna 4: Caracter 'a'. Transicion 0 -> 2
+Linea 22, Columna 5: Caracter 's'. Transicion 2 -> 3
+Linea 22, Columna 6: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 22, Columna 7: Caracter 'a'. Transicion 0 -> 2
+Linea 22, Columna 8: Caracter 'd'. No es parte del alfabeto clave. Reinicio.
+
+Linea 22, Columna 9: Caracter 'i'. Transicion 0 -> 0
+Linea 22, Columna 10: Caracter 'c'. Transicion 0 -> 0
+Linea 22, Columna 11: Caracter 'i'. Transicion 0 -> 0
+Linea 22, Columna 12: Caracter 'o'. Transicion 0 -> 0
+Linea 22, Columna 13: Caracter 'n'. Transicion 0 -> 0
+Linea 22, Columna 14: Caracter 'a'. Transicion 0 -> 2
+Linea 22, Columna 15: Caracter 'l'. Transicion 2 -> 0
+Linea 22, Columna 16: Caracter 'e'. Transicion 0 -> 0
+Linea 22, Columna 17: Caracter 's'. Transicion 0 -> 3
+Linea 22, Columna 18: Caracter ':'. No es parte del alfabeto clave. Reinicio.
+
+Linea 22, Columna 19: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 22, Columna 20: Caracter '
+'. No es parte del alfabeto clave. Reinicio.
+
+Linea 23, Columna 1: Caracter 'E'. No es parte del alfabeto clave. Reinicio.
+
+Linea 23, Columna 2: Caracter 'l'. Transicion 0 -> 0
+Linea 23, Columna 3: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 23, Columna 4: Caracter 's'. Transicion 0 -> 3
+Linea 23, Columna 5: Caracter 'o'. Transicion 3 -> 0
+Linea 23, Columna 6: Caracter 's'. Transicion 0 -> 3
+Linea 23, Columna 7: Caracter 'p'. Transicion 3 -> 5
+Linea 23, Columna 8: Caracter 'e'. Transicion 5 -> 0
+Linea 23, Columna 9: Caracter 'c'. Transicion 0 -> 0
+Linea 23, Columna 10: Caracter 'h'. Transicion 0 -> 0
+Linea 23, Columna 11: Caracter 'o'. Transicion 0 -> 0
+Linea 23, Columna 12: Caracter 's'. Transicion 0 -> 3
+Linea 23, Columna 13: Caracter 'o'. Transicion 3 -> 0
+Linea 23, Columna 14: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 23, Columna 15: Caracter 'i'. Transicion 0 -> 0
+Linea 23, Columna 16: Caracter 'n'. Transicion 0 -> 0
+Linea 23, Columna 17: Caracter 't'. Transicion 0 -> 0
+Linea 23, Columna 18: Caracter 'e'. Transicion 0 -> 0
+Linea 23, Columna 19: Caracter 'n'. Transicion 0 -> 0
+Linea 23, Columna 20: Caracter 't'. Transicion 0 -> 0
+Linea 23, Columna 21: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 23, Columna 22: Caracter '''. No es parte del alfabeto clave. Reinicio.
+
+Linea 23, Columna 23: Caracter 'f'. No es parte del alfabeto clave. Reinicio.
+
+Linea 23, Columna 24: Caracter '3'. No es parte del alfabeto clave. Reinicio.
+
+Linea 23, Columna 25: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 23, Columna 26: Caracter 'p'. Transicion 0 -> 5
+Linea 23, Columna 27: Caracter 'i'. Transicion 5 -> 12
+Linea 23, Columna 28: Caracter 'n'. Transicion 12 -> 20
+Linea 23, Columna 29: Caracter 'c'. Transicion 20 -> 28
+Linea 23, Columna 30: Caracter 'h'. Transicion 28 -> 36
+Linea 23, Columna 31: Caracter 'a'. Transicion 36 -> 43
+Linea 23, Columna 32: Caracter 'r'. Transicion 43 -> 48 [PALABRA ENCONTRADA: pinchar]
+Linea 23, Columna 33: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 23, Columna 34: Caracter 'l'. Transicion 0 -> 0
+Linea 23, Columna 35: Caracter 'o'. Transicion 0 -> 0
+Linea 23, Columna 36: Caracter 's'. Transicion 0 -> 3
+Linea 23, Columna 37: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 23, Columna 38: Caracter 'n'. Transicion 0 -> 0
+Linea 23, Columna 39: Caracter 'e'. Transicion 0 -> 0
+Linea 23, Columna 40: Caracter 'u'. Transicion 0 -> 0
+Linea 23, Columna 41: Caracter 'm'. Transicion 0 -> 1
+Linea 23, Columna 42: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 23, Columna 43: Caracter '''. No es parte del alfabeto clave. Reinicio.
+
+Linea 23, Columna 44: Caracter 'e'. Transicion 0 -> 0
+Linea 23, Columna 45: Caracter '1'. No es parte del alfabeto clave. Reinicio.
+
+Linea 23, Columna 46: Caracter 't'. Transicion 0 -> 0
+Linea 23, Columna 47: Caracter 'i'. Transicion 0 -> 0
+Linea 23, Columna 48: Caracter 'c'. Transicion 0 -> 0
+Linea 23, Columna 49: Caracter 'o'. Transicion 0 -> 0
+Linea 23, Columna 50: Caracter 's'. Transicion 0 -> 3
+Linea 23, Columna 51: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 23, Columna 52: Caracter 'd'. No es parte del alfabeto clave. Reinicio.
+
+Linea 23, Columna 53: Caracter 'e'. Transicion 0 -> 0
+Linea 23, Columna 54: Caracter 'l'. Transicion 0 -> 0
+Linea 23, Columna 55: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 23, Columna 56: Caracter 'v'. No es parte del alfabeto clave. Reinicio.
+
+Linea 23, Columna 57: Caracter 'e'. Transicion 0 -> 0
+Linea 23, Columna 58: Caracter 'h'. Transicion 0 -> 0
+Linea 23, Columna 59: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 23, Columna 60: Caracter '''. No es parte del alfabeto clave. Reinicio.
+
+Linea 23, Columna 61: Caracter 'e'. Transicion 0 -> 0
+Linea 23, Columna 62: Caracter 'd'. No es parte del alfabeto clave. Reinicio.
+
+Linea 23, Columna 63: Caracter 'c'. Transicion 0 -> 0
+Linea 23, Columna 64: Caracter 'u'. Transicion 0 -> 0
+Linea 23, Columna 65: Caracter 'l'. Transicion 0 -> 0
+Linea 23, Columna 66: Caracter 'o'. Transicion 0 -> 0
+Linea 23, Columna 67: Caracter '.'. No es parte del alfabeto clave. Reinicio.
+
+Linea 23, Columna 68: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 23, Columna 69: Caracter '
+'. No es parte del alfabeto clave. Reinicio.
+
+Linea 24, Columna 1: Caracter 'T'. No es parte del alfabeto clave. Reinicio.
+
+Linea 24, Columna 2: Caracter 'a'. Transicion 0 -> 2
+Linea 24, Columna 3: Caracter 'm'. Transicion 2 -> 7
+Linea 24, Columna 4: Caracter 'b'. No es parte del alfabeto clave. Reinicio.
+
+Linea 24, Columna 5: Caracter 'i'. Transicion 0 -> 0
+Linea 24, Columna 6: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 24, Columna 7: Caracter '''. No es parte del alfabeto clave. Reinicio.
+
+Linea 24, Columna 8: Caracter 'e'. Transicion 0 -> 0
+Linea 24, Columna 9: Caracter '9'. No es parte del alfabeto clave. Reinicio.
+
+Linea 24, Columna 10: Caracter 'n'. Transicion 0 -> 0
+Linea 24, Columna 11: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 24, Columna 12: Caracter 's'. Transicion 0 -> 3
+Linea 24, Columna 13: Caracter 'e'. Transicion 3 -> 10
+Linea 24, Columna 14: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 24, Columna 15: Caracter 'r'. Transicion 0 -> 0
+Linea 24, Columna 16: Caracter 'e'. Transicion 0 -> 0
+Linea 24, Columna 17: Caracter 'c'. Transicion 0 -> 0
+Linea 24, Columna 18: Caracter 'i'. Transicion 0 -> 0
+Linea 24, Columna 19: Caracter 'b'. No es parte del alfabeto clave. Reinicio.
+
+Linea 24, Columna 20: Caracter 'i'. Transicion 0 -> 0
+Linea 24, Columna 21: Caracter 'e'. Transicion 0 -> 0
+Linea 24, Columna 22: Caracter 'r'. Transicion 0 -> 0
+Linea 24, Columna 23: Caracter 'o'. Transicion 0 -> 0
+Linea 24, Columna 24: Caracter 'n'. Transicion 0 -> 0
+Linea 24, Columna 25: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 24, Columna 26: Caracter 'q'. No es parte del alfabeto clave. Reinicio.
+
+Linea 24, Columna 27: Caracter 'u'. Transicion 0 -> 0
+Linea 24, Columna 28: Caracter 'e'. Transicion 0 -> 0
+Linea 24, Columna 29: Caracter 'j'. No es parte del alfabeto clave. Reinicio.
+
+Linea 24, Columna 30: Caracter 'a'. Transicion 0 -> 2
+Linea 24, Columna 31: Caracter 's'. Transicion 2 -> 3
+Linea 24, Columna 32: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 24, Columna 33: Caracter 'p'. Transicion 0 -> 5
+Linea 24, Columna 34: Caracter 'o'. Transicion 5 -> 0
+Linea 24, Columna 35: Caracter 'r'. Transicion 0 -> 0
+Linea 24, Columna 36: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 24, Columna 37: Caracter 'a'. Transicion 0 -> 2
+Linea 24, Columna 38: Caracter 'c'. Transicion 2 -> 8
+Linea 24, Columna 39: Caracter 'o'. Transicion 8 -> 16
+Linea 24, Columna 40: Caracter 's'. Transicion 16 -> 24
+Linea 24, Columna 41: Caracter 'a'. Transicion 24 -> 32
+Linea 24, Columna 42: Caracter 'r'. Transicion 32 -> 39 [PALABRA ENCONTRADA: acosar]
+Linea 24, Columna 43: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 24, Columna 44: Caracter 'a'. Transicion 0 -> 2
+Linea 24, Columna 45: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 24, Columna 46: Caracter 'l'. Transicion 0 -> 0
+Linea 24, Columna 47: Caracter 'o'. Transicion 0 -> 0
+Linea 24, Columna 48: Caracter 's'. Transicion 0 -> 3
+Linea 24, Columna 49: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 24, Columna 50: Caracter 't'. Transicion 0 -> 0
+Linea 24, Columna 51: Caracter 'r'. Transicion 0 -> 0
+Linea 24, Columna 52: Caracter 'a'. Transicion 0 -> 2
+Linea 24, Columna 53: Caracter 'n'. Transicion 2 -> 0
+Linea 24, Columna 54: Caracter 's'. Transicion 0 -> 3
+Linea 24, Columna 55: Caracter 'e'. Transicion 3 -> 10
+Linea 24, Columna 56: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 24, Columna 57: Caracter '''. No es parte del alfabeto clave. Reinicio.
+
+Linea 24, Columna 58: Caracter 'f'. No es parte del alfabeto clave. Reinicio.
+
+Linea 24, Columna 59: Caracter 'a'. Transicion 0 -> 2
+Linea 24, Columna 60: Caracter 'n'. Transicion 2 -> 0
+Linea 24, Columna 61: Caracter 't'. Transicion 0 -> 0
+Linea 24, Columna 62: Caracter 'e'. Transicion 0 -> 0
+Linea 24, Columna 63: Caracter 's'. Transicion 0 -> 3
+Linea 24, Columna 64: Caracter '.'. No es parte del alfabeto clave. Reinicio.
+
+Linea 24, Columna 65: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 24, Columna 66: Caracter '
+'. No es parte del alfabeto clave. Reinicio.
+
+Linea 25, Columna 1: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 25, Columna 2: Caracter '
+'. No es parte del alfabeto clave. Reinicio.
+
+Linea 26, Columna 1: Caracter 'F'. No es parte del alfabeto clave. Reinicio.
+
+Linea 26, Columna 2: Caracter 'i'. Transicion 0 -> 0
+Linea 26, Columna 3: Caracter 'n'. Transicion 0 -> 0
+Linea 26, Columna 4: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 26, Columna 5: Caracter 'd'. No es parte del alfabeto clave. Reinicio.
+
+Linea 26, Columna 6: Caracter 'e'. Transicion 0 -> 0
+Linea 26, Columna 7: Caracter 'l'. Transicion 0 -> 0
+Linea 26, Columna 8: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 26, Columna 9: Caracter 'r'. Transicion 0 -> 0
+Linea 26, Columna 10: Caracter 'e'. Transicion 0 -> 0
+Linea 26, Columna 11: Caracter 'p'. Transicion 0 -> 5
+Linea 26, Columna 12: Caracter 'o'. Transicion 5 -> 0
+Linea 26, Columna 13: Caracter 'r'. Transicion 0 -> 0
+Linea 26, Columna 14: Caracter 't'. Transicion 0 -> 0
+Linea 26, Columna 15: Caracter 'e'. Transicion 0 -> 0
+Linea 26, Columna 16: Caracter '.'. No es parte del alfabeto clave. Reinicio.
+
+Linea 26, Columna 17: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 26, Columna 18: Caracter '
+'. No es parte del alfabeto clave. Reinicio.
+
+Linea 27, Columna 1: Caracter '-'. No es parte del alfabeto clave. Reinicio.
+
+Linea 27, Columna 2: Caracter '-'. No es parte del alfabeto clave. Reinicio.
+
+Linea 27, Columna 3: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 27, Columna 4: Caracter 'a'. Transicion 0 -> 2
+Linea 27, Columna 5: Caracter 't'. Transicion 2 -> 9
+Linea 27, Columna 6: Caracter 'a'. Transicion 9 -> 17
+Linea 27, Columna 7: Caracter 'c'. Transicion 17 -> 25
+Linea 27, Columna 8: Caracter 'a'. Transicion 25 -> 33
+Linea 27, Columna 9: Caracter 'r'. Transicion 33 -> 40 [PALABRA ENCONTRADA: atacar]
+Linea 27, Columna 10: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 27, Columna 11: Caracter '-'. No es parte del alfabeto clave. Reinicio.
+
+Linea 27, Columna 12: Caracter '-'. No es parte del alfabeto clave. Reinicio.
+
+Linea 27, Columna 13: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 27, Columna 14: Caracter '('. No es parte del alfabeto clave. Reinicio.
+
+Linea 27, Columna 15: Caracter 'p'. Transicion 0 -> 5
+Linea 27, Columna 16: Caracter 'r'. Transicion 5 -> 0
+Linea 27, Columna 17: Caracter 'u'. Transicion 0 -> 0
+Linea 27, Columna 18: Caracter 'e'. Transicion 0 -> 0
+Linea 27, Columna 19: Caracter 'b'. No es parte del alfabeto clave. Reinicio.
+
+Linea 27, Columna 20: Caracter 'a'. Transicion 0 -> 2
+Linea 27, Columna 21: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 27, Columna 22: Caracter 'd'. No es parte del alfabeto clave. Reinicio.
+
+Linea 27, Columna 23: Caracter 'e'. Transicion 0 -> 0
+Linea 27, Columna 24: Caracter ' '. No es parte del alfabeto clave. Reinicio.
+
+Linea 27, Columna 25: Caracter 'r'. Transicion 0 -> 0
+Linea 27, Columna 26: Caracter 'e'. Transicion 0 -> 0
+Linea 27, Columna 27: Caracter 'p'. Transicion 0 -> 5
+Linea 27, Columna 28: Caracter 'e'. Transicion 5 -> 0
+Linea 27, Columna 29: Caracter 't'. Transicion 0 -> 0
+Linea 27, Columna 30: Caracter 'i'. Transicion 0 -> 0
+Linea 27, Columna 31: Caracter 'c'. Transicion 0 -> 0
+Linea 27, Columna 32: Caracter 'i'. Transicion 0 -> 0
+Linea 27, Columna 33: Caracter '\'. No es parte del alfabeto clave. Reinicio.
+
+Linea 27, Columna 34: Caracter '''. No es parte del alfabeto clave. Reinicio.
+
+Linea 27, Columna 35: Caracter 'f'. No es parte del alfabeto clave. Reinicio.
+
+Linea 27, Columna 36: Caracter '3'. No es parte del alfabeto clave. Reinicio.
+
+Linea 27, Columna 37: Caracter 'n'. Transicion 0 -> 0
+Linea 27, Columna 38: Caracter ')'. No es parte del alfabeto clave. Reinicio.
+
+Linea 27, Columna 39: Caracter '}'. No es parte del alfabeto clave. Reinicio.
+
+
+Procesamiento del archivo finalizado.
