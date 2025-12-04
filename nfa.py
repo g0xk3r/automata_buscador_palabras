@@ -1,5 +1,6 @@
 from collections import deque
 from typing import Set, Dict, Tuple, List
+from graphviz import Digraph
 from dfa import DFA
 
 class NFA:
@@ -10,10 +11,24 @@ class NFA:
         self.alfabeto = alfabeto
         self.transiciones = transiciones
 
+    def mostrar_grafo(self):
+        punto = Digraph()
+        punto.attr(rankdir='LR')
+        punto.node('start', shape='point')
+        for estado in self.estados:
+            if estado in self.estado_aceptacion:
+                punto.node(str(estado), shape='doublecircle')
+            else:
+                punto.node(str(estado), shape='circle')
+        punto.edge('start', str(self.estado_inicial))
+        for (estado_origen, simbolo), conjunto_destinos in self.transiciones.items():
+            for estado_destino in conjunto_destinos:
+                punto.edge(str(estado_origen), str(estado_destino), label=simbolo)
+        return punto
+
     def cerradura_epsilon(self, estados: Set[int]):
         pila = list(estados)
         cerradura = set(estados)
-
         while pila:
             estado_actual = pila.pop()
             transiciones_epsilon = self.transiciones.get((estado_actual, ' '), set())
@@ -32,43 +47,35 @@ class NFA:
 
     def convertir_a_dfa(self):
         estados_dfa = set()
-        # Calculamos el estado inicial real (Closure del estado 0)
         estado_inicial_dfa = frozenset(self.cerradura_epsilon({self.estado_inicial}))
         estados_finales_dfa = set()
         transiciones_dfa = {}
-        
         mapa_estados_dfa: Dict[frozenset[int], int] = {estado_inicial_dfa: 0}
         id_contador_estados_dfa = 0
         cola = deque([estado_inicial_dfa])
         estados_dfa.add(estado_inicial_dfa)
-        
         while cola:
             estado_actual_nfa = cola.popleft()
             id_estado_actual_dfa = mapa_estados_dfa[estado_actual_nfa]
-            
-            # Si el conjunto de estados NFA contiene algun estado final, el estado DFA es final
             if not estado_actual_nfa.isdisjoint(self.estado_aceptacion):
                 estados_finales_dfa.add(id_estado_actual_dfa)
 
             for simbolo in self.alfabeto:
                 siguientes_estados_nfa = self.mover(estado_actual_nfa, simbolo)
                 siguientes_estados_nfa_cerradura = frozenset(self.cerradura_epsilon(siguientes_estados_nfa))
-                
                 if not siguientes_estados_nfa_cerradura:
                     continue
-
                 if siguientes_estados_nfa_cerradura not in estados_dfa:
                     estados_dfa.add(siguientes_estados_nfa_cerradura)
                     cola.append(siguientes_estados_nfa_cerradura)
                     id_contador_estados_dfa += 1
                     mapa_estados_dfa[siguientes_estados_nfa_cerradura] = id_contador_estados_dfa
-                
+
                 id_siguiente_estado_dfa = mapa_estados_dfa[siguientes_estados_nfa_cerradura]
-                
                 if id_estado_actual_dfa not in transiciones_dfa:
                     transiciones_dfa[id_estado_actual_dfa] = {}
                 transiciones_dfa[id_estado_actual_dfa][simbolo] = id_siguiente_estado_dfa
-        
+
         return DFA(
             estados=set(mapa_estados_dfa.values()),
             estado_inicial=mapa_estados_dfa[estado_inicial_dfa],
@@ -87,12 +94,10 @@ class NFA:
         alfabeto = set()
         nuevo_contador_estado = 0
 
-        # 1. Construir el Arbol (Trie)
         for palabra in palabras_clave:
             estado_actual = estado_inicial
             for simbolo in palabra:
                 alfabeto.add(simbolo)
-                # Verificar si ya existe camino
                 if (estado_actual, simbolo) in transiciones:
                     estado_actual = list(transiciones[(estado_actual, simbolo)])[0]
                 else:

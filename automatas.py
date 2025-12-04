@@ -23,7 +23,6 @@ class correr_automatas:
         texto = self.leer_archivo(ruta_archivo)
         self.vitacora_contenido = ["Iniciando procesamiento del archivo.\n"]
         self.palabras_encontradas = []
-        
         estado_actual = self.dfa.estado_inicial
         buffer_actual = ""
         linea = 1
@@ -31,21 +30,14 @@ class correr_automatas:
 
         for caracter in texto:
             estado_original = estado_actual
-            
-            # Verificamos si existe transición en el DFA
-            # Como es un DFA completo sobre el alfabeto de palabras, manejará los retornos automáticamente
             if caracter in self.dfa.transiciones.get(estado_actual, {}):
                 estado_actual = self.dfa.transiciones[estado_actual][caracter]
-                
-                # Gestion visual del buffer: 
-                # Si el DFA nos regresa al estado 0, significa que rompió la cadena
                 if estado_actual == 0:
                     buffer_actual = ""
                 else:
                     buffer_actual += caracter
 
                 mensaje_vitacora = f"Linea {linea}, Columna {columna}: Caracter '{caracter}'. Transicion {estado_original} -> {estado_actual}"
-                
                 if estado_actual in self.dfa.estados_finales:
                     encontrado = {
                         'palabra': buffer_actual,
@@ -55,23 +47,18 @@ class correr_automatas:
                     }
                     self.palabras_encontradas.append(encontrado)
                     mensaje_vitacora += f" [PALABRA ENCONTRADA: {buffer_actual}]"
-                    # Reiniciamos estado y buffer tras encontrar para buscar la siguiente limpia
                     estado_actual = 0
                     buffer_actual = ""
-                
                 self.vitacora_contenido.append(mensaje_vitacora)
-            
             else:
-                # Solo entramos aqui si el caracter NO es parte de ninguna palabra clave (ej. espacio, punto)
                 self.vitacora_contenido.append(f"Linea {linea}, Columna {columna}: Caracter '{caracter}'. No es parte del alfabeto clave. Reinicio.\n")
                 buffer_actual = ""
                 estado_actual = self.dfa.estado_inicial
-            
             if caracter == '\n':
                 linea += 1
                 columna = 1
             else:
                 columna += 1
-                
+
         self.vitacora_contenido.append("\nProcesamiento del archivo finalizado.")
         return self.palabras_encontradas, "\n".join(self.vitacora_contenido)
